@@ -1,0 +1,19 @@
+metal_detector - 
+
+In this the LC circuit creates the constant magnetic field oscillation due too this if any metal comes nearer the magnetic field changes and the Arduino detect this variation and sent alert to the buzzer 
+
+
+Components Required – 
+•	Arduino Uno 
+•	Coil (Inductor) 
+•	Capacitor 
+•	Buzzer 
+•	Resistors 
+•	Breadboard / PCB 
+•	Connecting Wires
+
+Working – 
+•	A coil is used to generate a magnetic field when current flows through it. 
+•	When a metal object comes near the coil, it disturbs the magnetic field. 
+•	This change affects the circuit parameters (inductance/frequency). 
+•	Arduino detects this variation and triggers a buzzer as an alert.
