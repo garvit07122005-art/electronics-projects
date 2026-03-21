@@ -11,4 +11,4 @@ This repository contains multiple Arduino-based projects:
 - Embedded C
 - KiCad (PCB Design)
   
-all these projects can be displayed also on the lcd display
+all these projects can also display on the lcd display inatead on serial monitor
